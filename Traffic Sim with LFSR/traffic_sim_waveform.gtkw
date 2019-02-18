@@ -1,0 +1,61 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed May  9 10:12:42 2018
+[*]
+[dumpfile] "/home/ravi/Desktop/final/Traffic Sim with LFSR/traffic_sim.vcd"
+[dumpfile_mtime] "Wed May  9 10:11:55 2018"
+[dumpfile_size] 3162
+[savefile] "/home/ravi/Desktop/final/Traffic Sim with LFSR/traffic_sim_waveform.gtkw"
+[timestart] 890
+[size] 1845 1025
+[pos] -39 -39
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 301
+@28
+traffic_tb.GA
+traffic_tb.GB
+traffic_tb.RA
+traffic_tb.RB
+traffic_tb.TA
+traffic_tb.TB
+traffic_tb.YA
+traffic_tb.YB
+traffic_tb.clk
+traffic_tb.rst
+traffic_tb.utu.clock
+traffic_tb.utu.feedback1
+traffic_tb.utu.feedback2
+@22
+traffic_tb.utu.op1[4:0]
+traffic_tb.utu.op2[4:0]
+@28
+traffic_tb.utu.outputA
+traffic_tb.utu.outputB
+traffic_tb.utu.reset
+traffic_tb.uut.GA
+traffic_tb.uut.GB
+traffic_tb.uut.RA
+traffic_tb.uut.RB
+traffic_tb.uut.TA
+traffic_tb.uut.TB
+traffic_tb.uut.YA
+traffic_tb.uut.YB
+traffic_tb.uut.clk
+traffic_tb.uut.curr_state[1:0]
+traffic_tb.uut.lfsr.clock
+traffic_tb.uut.lfsr.feedback1
+traffic_tb.uut.lfsr.feedback2
+@22
+traffic_tb.uut.lfsr.op1[4:0]
+traffic_tb.uut.lfsr.op2[4:0]
+@28
+traffic_tb.uut.lfsr.outputA
+traffic_tb.uut.lfsr.outputB
+traffic_tb.uut.lfsr.reset
+traffic_tb.uut.nxt_state[1:0]
+traffic_tb.uut.rst
+[pattern_trace] 1
+[pattern_trace] 0
